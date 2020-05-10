@@ -1,13 +1,3 @@
-# This project is no longer maitained. If you've been using the boilerplate, it will work well and good. Latest version of redux and react hooks patterns are not used in the boilerplate and it is not recommended to start a new project with this boilerplate in 2020.
-
-<img src="https://raw.githubusercontent.com/flexdinesh/react-redux-boilerplate/master/app/components/Header/images/banner.jpg" alt="react redux boilerplate banner" align="center" />
-
-<br />
-
-<div align="center">A minimal, beginner friendly React-Redux boilerplate with all the industry best practices</div>
-
-<br />
-
 <div align="center">
   <!-- Dependency Status -->
   <a href="https://david-dm.org/flexdinesh/react-redux-boilerplate">
@@ -102,7 +92,3 @@ Now you're ready build your beautiful React Application!
 
 These are the things I stripped out from [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - _github project rules, ngrok tunneling, shjs, service worker, webpack dll plugin, i18n, styled-components, code generators and a few more._
 
-
-## License
-
-MIT license, Copyright (c) 2018 Dinesh Pandiyan.
