@@ -1,48 +1,3 @@
-# This project is no longer maitained. If you've been using the boilerplate, it will work well and good. Latest version of redux and react hooks patterns are not used in the boilerplate and it is not recommended to start a new project with this boilerplate in 2020.
-
-<img src="https://raw.githubusercontent.com/flexdinesh/react-redux-boilerplate/master/app/components/Header/images/banner.jpg" alt="react redux boilerplate banner" align="center" />
-
-<br />
-
-<div align="center">A minimal, beginner friendly React-Redux boilerplate with all the industry best practices</div>
-
-<br />
-
-<div align="center">
-  <!-- Dependency Status -->
-  <a href="https://david-dm.org/flexdinesh/react-redux-boilerplate">
-    <img src="https://david-dm.org/flexdinesh/react-redux-boilerplate.svg" alt="Dependency Status" />
-  </a>
-  <!-- devDependency Status -->
-  <a href="https://david-dm.org/flexdinesh/react-redux-boilerplate#info=devDependencies">
-    <img src="https://david-dm.org/flexdinesh/react-redux-boilerplate/dev-status.svg" alt="devDependency Status" />
-  </a>
-  <!-- Build Status -->
-  <a href="https://travis-ci.org/flexdinesh/react-redux-boilerplate">
-    <img src="https://travis-ci.org/flexdinesh/react-redux-boilerplate.svg" alt="Build Status" />
-  </a>
-  <!-- Gitter -->
-  <a href="https://gitter.im/flexdinesh/react-redux-boilerplate">
-    <img src="https://camo.githubusercontent.com/54dc79dc7da6b76b17bc8013342da9b4266d993c/68747470733a2f2f6261646765732e6769747465722e696d2f6d78737462722f72656163742d626f696c6572706c6174652e737667" alt="Gitter Chat" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <sub>Created by <a href="https://twitter.com/flexdinesh">Dinesh Pandiyan</a></sub>
-</div>
-
-
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
-
-The whole React community knows and will unanimously agree that [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) is the ultimate starter template for kickstarting a React project. It's setup with all the industry best practices and standards. But it also has a lot more than what you just need to start a react-redux app. It took me quite some time to get my head around what was happening in the codebase and it's clearly not for starters. They quote this right in their readme,
-
-> Please note that this boilerplate is **production-ready and not meant for beginners**! If you're just starting out with react or redux, please refer to https://github.com/petehunt/react-howto instead. If you want a solid, battle-tested base to build your next product upon and have some experience with react, this is the perfect start for you.
-
-So it involves a lot of additional learning curve to get started with [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate). That's why I forked it, stripped it down and made this _leaner, **beginner friendly**_ boilerplate without all the additional complexity.
-
-
 ## Features
 
 This boilerplate features all the latest tools and practices in the industry.
@@ -102,7 +57,3 @@ Now you're ready build your beautiful React Application!
 
 These are the things I stripped out from [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - _github project rules, ngrok tunneling, shjs, service worker, webpack dll plugin, i18n, styled-components, code generators and a few more._
 
-
-## License
-
-MIT license, Copyright (c) 2018 Dinesh Pandiyan.
